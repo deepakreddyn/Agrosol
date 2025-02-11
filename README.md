@@ -7,7 +7,7 @@ AgroSol is a **smart farming web application** designed to help farmers **identi
 - **Frontend:** HTML, CSS, JavaScript
 
 ## 📂 Features Implemented
-- **Plant Disease Detection:** Upload an image of a plant, and the AI model detects potential diseases.
+- **Plant Disease Detection:** Upload an image of a plant, and know the  diseases.
 - **Agricultural Tool Rental:** Farmers can list and rent tools securely.
 - **User Authentication:** Secure login and profile management.
 - **Dashboard & Analytics:** Track rented tools and disease detection history.
