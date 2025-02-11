@@ -1,6 +1,49 @@
-# AgroSol12
-About our project
-In this project we tried to design an interface between 'Farmers and Plant doctors' i.e,we tried making website for both the farmers and the plant doctors .
-This website is built for benefitting the farmers by making it easy to connect them to experts in finding the diseases .
-Our idea is to make this site more usable and working in realtime , as we did not add any database or any cloud services for this website its still in progress. 
-Will update when its ready .
+# 🌱 AgroSol - Smart Farming Web App
+
+## 📌 Project Overview
+AgroSol is a **smart farming web application** designed to help farmers **identify plant diseases** and **rent agricultural tools**. The platform uses **IN Person image analysis** for disease detection and provides a **marketplace for renting farming equipment**.
+
+## 🛠️ Technologies Used
+- **Frontend:** HTML, CSS, JavaScript
+
+## 📂 Features Implemented
+- **Plant Disease Detection:** Upload an image of a plant, and the AI model detects potential diseases.
+- **Agricultural Tool Rental:** Farmers can list and rent tools securely.
+- **User Authentication:** Secure login and profile management.
+- **Dashboard & Analytics:** Track rented tools and disease detection history.
+
+## 🚀 Installation & Setup
+### 🔹 Clone the Repository
+```bash
+git clone https://github.com/deepakreddyn/Agrosol.git
+cd Agrosol
+```
+### 🔹 Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 🔹 Run the Application
+```bash
+python app.py
+```
+Access the web app at `http://localhost:5000`.
+
+
+## 💡 Future Enhancements
+- Expand the **disease detection model** with more datasets.
+- Implement **real-time crop health monitoring** using IoT sensors.
+- Add **multi-language support** for better accessibility.
+
+## 🤝 Contribution
+Contributions are welcome! Follow these steps to contribute:
+1. **Fork the repository**
+2. **Create a feature branch**
+3. **Commit your changes**
+4. **Submit a pull request**
+
+
+
+## 📬 Contact
+For any queries or collaborations, reach out via:
+- **LinkedIn:** [Deepak Reddy Nainakanti](https://www.linkedin.com/in/deepak-reddy-nainakanti-42259a223/)
+- **Email:** deepakreddynainakanti1904@gmail.com
