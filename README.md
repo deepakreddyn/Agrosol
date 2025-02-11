@@ -22,11 +22,6 @@ cd Agrosol
 ```bash
 pip install -r requirements.txt
 ```
-### 🔹 Run the Application
-```bash
-python app.py
-```
-Access the web app at `http://localhost:5000`.
 
 
 ## 💡 Future Enhancements
